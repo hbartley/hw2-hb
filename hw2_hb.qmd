@@ -1,0 +1,9 @@
+---
+title: "Fire station analysis - hb"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
